@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<jenkins.plugins.slack.SlackNotifier_-DescriptorImpl plugin="slack@1.8.1">
+  <teamDomain>productops</teamDomain>
+  <token>MBfa5Zz0Mc8gtH9nZJL94dfg</token>
+  <room>#jenkins_alerts</room>
+  <buildServerUrl>http://jenkins.choice.productops.com/jenkins/</buildServerUrl>
+</jenkins.plugins.slack.SlackNotifier_-DescriptorImpl>

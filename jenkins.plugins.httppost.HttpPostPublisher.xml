@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<jenkins.plugins.httppost.HttpPostPublisher_-Descriptor plugin="http-post@1.2">
+  <url></url>
+  <headers></headers>
+</jenkins.plugins.httppost.HttpPostPublisher_-Descriptor>

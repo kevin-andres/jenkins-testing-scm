@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<hudson.plugins.rake.Rake_-RakeDescriptor plugin="rake@1.8.0">
+  <installations/>
+  <rvm>
+    <path>/opt/bitnami/apps/jenkins/jenkins_home/plugins/rvm</path>
+  </rvm>
+</hudson.plugins.rake.Rake_-RakeDescriptor>
